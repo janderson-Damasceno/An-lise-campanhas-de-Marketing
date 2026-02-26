@@ -109,4 +109,3 @@ Análise do impacto do número de compras com desconto na fidelização dos clie
 ---
 
 
-Qual objetivo você quer atingir com esse projeto no GitHub?
